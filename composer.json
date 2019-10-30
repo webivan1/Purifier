@@ -1,5 +1,5 @@
 {
-  "name": "mews/purifier",
+  "name": "webivan1/purifier",
   "type": "package",
   "description": "Laravel 5/6 HtmlPurifier Package",
   "keywords": ["laravel6 HtmlPurifier", "laravel6 Purifier", "laravel6 Security", "laravel5 HtmlPurifier", "laravel5 Purifier", "laravel5 Security", "HtmlPurifier", "Purifier", "security", "xss"],
